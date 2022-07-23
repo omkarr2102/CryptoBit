@@ -378,3 +378,10 @@ padding-right: 20px;
     padding: 20px;
     align-items: center;
 }
+
+@media screen and (max-width:1300px){
+    .main{
+        margin-left: 50px;
+        margin-left: 0px;
+    }
+}

@@ -1,0 +1,7 @@
+Cryptocurrencies.jsx
+
+<Col xs={24} sm={12} lg={6} /*xs={20} sm={10} lg={4}*/className="crypto-card" key={currency.id}>
+          <Link to={`/crypto/${currency.id}`}>
+          ogcode is in rough
+
+Youtube comment suggestion was use currency.uuid instead currency.id ie .rank row
