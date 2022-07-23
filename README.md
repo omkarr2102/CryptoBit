@@ -1,4 +1,5 @@
 # CryptoBit - Stay in touch with latest crypto information.
+crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it. CryptoBit Helps Naive user to gets insights of Crypto Duniya!
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 
