@@ -12,5 +12,6 @@
 This section list out major frameworks/libraries used to bootstrap my project. 
 
 # [![Made With](https://img.shields.io/badge/%3C%2F%3E-PHP%2C%20JavaScript-blue)](/docs/requirements/)
+# [![Made With](https://img.shields.io/badge/%3C%2F%3E-PHP%2C%20JavaScript-red)](/docs/requirements/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
