@@ -21,4 +21,7 @@ This section list out major frameworks/libraries used to bootstrap this project.
 [![Made With](https://img.shields.io/badge/%3C%2F%3E-CSS-orange)](/docs/requirements/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### demo
+<img align="left" justify-content="space-around" alt="GIF" src="https://github.com/omkarr2102/cryptobit/blob/master/CryptoBit-Brave.gif"/>
+
+
